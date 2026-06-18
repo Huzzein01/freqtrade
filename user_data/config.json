@@ -12,7 +12,7 @@
   "margin_mode": "",
 
   "exchange": {
-    "name": "bybit",
+    "name": "gate",
     "key": "",
     "secret": "",
     "ccxt_config": {},
